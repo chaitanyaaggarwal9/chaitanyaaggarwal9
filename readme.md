@@ -57,7 +57,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=chaitanyaaggarwal9&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chaitanyaaggarwal9&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitanyaaggarwal9&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 ---
 
