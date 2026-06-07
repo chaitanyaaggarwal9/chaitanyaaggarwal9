@@ -55,9 +55,9 @@
 
 ## 📈 GitHub Stats
 
-![Chaitanya's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaitanyaaggarwal9&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=chaitanyaaggarwal9&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyaaggarwal9&layout=compact&theme=dark&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chaitanyaaggarwal9&theme=onedark&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
