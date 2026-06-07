@@ -56,11 +56,12 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=archonz-crazy&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=chaitanyaaggarwal9&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archonz-crazy&theme=tokyonight" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitanyaaggarwal9&theme=tokyonight" alt="Profile Summary" />
 </p>
+
 ---
 
 ## 🤝 Connect
