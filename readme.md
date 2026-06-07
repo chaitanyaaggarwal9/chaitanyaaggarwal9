@@ -55,10 +55,12 @@
 
 ## 📈 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chaitanyaaggarwal9&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitanyaaggarwal9&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=archonz-crazy&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=archonz-crazy&theme=tokyonight" alt="Profile Summary" />
+</p>
 ---
 
 ## 🤝 Connect
