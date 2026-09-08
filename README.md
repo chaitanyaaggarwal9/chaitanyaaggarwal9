@@ -17,8 +17,6 @@
 ![Google PM](https://img.shields.io/badge/Google-Project_Management-4285F4?style=flat-square&labelColor=0d1117&logo=google&logoColor=white)
 ![Google DA](https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=flat-square&labelColor=0d1117&logo=google&logoColor=white)
 
-
-
 <div align="center">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=chaitanyaaggarwal9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanyaaggarwal9&layout=compact&theme=tokyonight&hide_border=true" />
