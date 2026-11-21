@@ -22,7 +22,9 @@ I'm working on METY Foundation's digital products:
 | Product | Status | What it is |
 |---|---|---|
 | [AI Gym Coach](https://www.myaigymcoach.com) | 🟢 Live | AI-powered fitness coaching app |
-| [Rizobot](https://www.rizobot.com/) | 🛠️ Personal project | AI bot I designed and built on my own |
+| [Rizo](https://www.rizobot.com/) · [code](https://github.com/chaitanyaaggarwal9/rizo-bot) | 🟢 Live on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ChaitanyaAggarwal.rizo) | Bring-your-own-key AI coding assistant for VS Code: pick Claude, Gemini, OpenAI, DeepSeek, Kimi or a free model per chat, with a diff before every write and warnings on destructive commands |
+| [Rizo Lang](https://www.rizobot.com/lang) · [code](https://github.com/chaitanyaaggarwal9/rizolang) | 🧪 Early development, [on npm](https://www.npmjs.com/package/rizolang) | A small web language where common security mistakes can't be written. Compiles `.rz` files to PostgreSQL, TypeScript and a Node.js server |
+| [Chaitanya-Skills](https://github.com/chaitanyaaggarwal9/Chaitanya-Skills) | 🛠️ Open source | Claude Code skills for coding discipline, frontend taste, API design, debugging, git hygiene, accessibility and testing, validated in CI |
 
 ---
 
